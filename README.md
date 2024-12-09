@@ -15,3 +15,8 @@ Added a New Branch from update
 This is bound to cause trouble!!!!!!
 
 >>>>>>> very-bad
+
+Update Readme.md file for statging
+More update for stagig. This is the stage file.
+
+
